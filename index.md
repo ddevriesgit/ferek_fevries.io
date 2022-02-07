@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: single
 title: "Ferek FeVries Watches a Website Workshop"
 permalink: /
 ---
